@@ -9,7 +9,7 @@
 
 root
  |-Platra
- |-プラトレ_概要説明書 …このゲームの概要説明書です。
+ |-プラトレ_概要説明書 …ゲームの概要説明書です。
  |
  |--実行ファイル
  | |-Data
@@ -39,7 +39,7 @@ root
  |  |-Platra_作品紹介動画URL.txt  …ゲームの作品紹介動画を閲覧するためのURLがあります。
  |  
  |-Sweets Manufacturer
- |-Sweets Manufacturer_概要説明書 …このゲームの概要説明書です。
+ |-Sweets Manufacturer_概要説明書 …ゲームの概要説明書です。
  |
  |--実行ファイル
  | |-Sweets Manufacturer_Data     …ゲーム内で使用されるアセットが入ってます。
@@ -59,7 +59,7 @@ root
  |  |-Sweets Manufacturer_作品紹介動画URL.txt  …ゲームの作品紹介動画を閲覧するためのURLがあります。
  |  
  |-Kuriderella
- |-栗デレラ_概要説明書 …このゲームの概要説明書です。
+ |-栗デレラ_概要説明書 …ゲームの概要説明書です。
  |
  |--実行ファイル
  | |-Data
