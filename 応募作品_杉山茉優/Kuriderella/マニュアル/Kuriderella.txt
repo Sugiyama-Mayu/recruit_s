@@ -6,6 +6,8 @@
 ・Adobe Photoshop 2020
 
 ・制作箇所
+制作したプログラムや関数はM.Sのコメントがついています
+
 BackFore.cpp
 残機の表示
 画像でのMP表示

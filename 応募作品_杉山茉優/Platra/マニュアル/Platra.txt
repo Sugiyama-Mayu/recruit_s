@@ -9,6 +9,8 @@
 ・Blender
 
 ・制作箇所
+制作したプログラムや関数はM.Sのコメントがついています
+
 FbxSkinMesh.hlsli
 FbxStaticMesh.hlsli
 トゥーンレンダリングを追加、変更
